@@ -22,6 +22,6 @@ function currentLine (katzDeliLine) {
   } else {
     
   }
-  return 
+  return currentLine;
   
 }
